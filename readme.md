@@ -23,3 +23,9 @@ This [spring-petclinic-data-jdbc](https://github.com/spring-petclinic/spring-pet
 hosted in a special GitHub org: [spring-petclinic](https://github.com/spring-petclinic).
 If you have a special interest in a different technology stack
 that could be used to implement the Pet Clinic then please join the community there.
+
+## 기타
+###  pom.xml 에서 gradle 스크립트 생성
+```
+gradle init --type pom
+``` 
